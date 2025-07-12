@@ -1,11 +1,11 @@
 module.exports = {
   config: {
-    name: "out",
+    name: "ami kabbo Left ne",
   version: "1.0.5",
   credits: "nayan",
   prefix: false,
   permission: 2,
-  description: "out bot",
+  description: "ami kabbo Left ne",
   category: "admin",
   cooldowns: 5
 },
