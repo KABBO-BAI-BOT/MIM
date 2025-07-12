@@ -1,11 +1,11 @@
 module.exports = {
   config: {
-    name: "Left",
+    name: "out",
   version: "1.0.5",
   credits: "nayan",
   prefix: false,
   permission: 2,
-  description: "Left",
+  description: "out",
   category: "admin",
   cooldowns: 5
 },
